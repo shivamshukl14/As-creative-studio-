@@ -15,11 +15,7 @@
 <body>
   <header>
     <h1>Welcome to My Photography</h1>
-    <nav>
-      <a href="index.html">Home</a>
-      <a href="packages.html">Packages</a>
-      <a href="gallery.html">Gallery</a>
-      <a href="testimonials.html">Testimonials</a>
+    href="testimonials.html">Testimonials</a>
       <a href="contact.html">Contact</a>
     </nav>
   </header>
@@ -177,16 +173,13 @@
   <header>
     <h1>Contact Us</h1>
     <nav>
-      <a href="index.html">Home</a>
-      <a href="packages.html">Packages</a>
-      <a href="gallery.html">Gallery</a>
-      <a href="testimonials.html">Testimonials</a>
+      <href="testimonials.html">Testimonials</a>
       <a href="contact.html">Contact</a>
     </nav>
   </header>
 
   <section>
-    <form action="https://formsubmit.co/your-email@gmail.com" method="POST">
+    <form action="https://formsubmit.co/your- shivamshukla2008s@gmail.com" method="POST">
       <input type="text" name="name" placeholder="Your Name" required>
       <input type="email" name="email" placeholder="Your Email" required>
       <textarea name="message" placeholder="Your Message" required></textarea>
@@ -194,7 +187,7 @@
     </form>
 
     <div class="whatsapp">
-      <a href="https://wa.me/919999999999" target="_blank">
+      <a href="https://wa.me/8421112477" target="_blank">
         <button>Message on WhatsApp</button>
       </a>
     </div>
